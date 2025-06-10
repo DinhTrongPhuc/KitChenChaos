@@ -1,6 +1,6 @@
 # 🍳 **MasterChef Rush - 3D Cooking Game**
 
-![Game Banner](https://ibb.co/4Zd8T5JP) 
+![Game Banner]([https://ibb.co/4Zd8T5JP](https://postimg.cc/SYYXWK62)) 
 
 🎮 **MasterChef Rush** là một tựa game nấu ăn 3D đầy kịch tính, nơi bạn sẽ nhập vai một đầu bếp tài ba, chạy đua với thời gian để chế biến những món ăn ngon tuyệt hảo trong một nhà bếp ảo sống động. Hãy sẵn sàng trổ tài xử lý nguyên liệu, kết hợp công thức, và phục vụ khách hàng trong những giây phút gay cấn nhất!
 
